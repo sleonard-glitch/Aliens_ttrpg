@@ -1,0 +1,12 @@
+Close Combat
+Stamina
+Observation
+Survival
+Comtech
+Medical Aid
+Manipulation
+Command
+Piloting
+Mobility
+Ranged Combat
+Heavy Machinery

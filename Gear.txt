@@ -1,0 +1,3 @@
+colonial_marine_a = [M41A Pulse Rigle, M313 Motion Tracker, IRC MK.35, Signal Flare]
+colonial_marine_b = [M56A2 Smart Gun, G2 Electroshoch Grenades, M3 Personanel Armor, Deck of Cards]
+
